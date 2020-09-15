@@ -1,0 +1,6 @@
+C:\Users\vandr\Desktop\Новая папка\Lab_1\Lab_1_7\bin\Debug\Lab_1_7.exe.config
+C:\Users\vandr\Desktop\Новая папка\Lab_1\Lab_1_7\bin\Debug\Lab_1_7.exe
+C:\Users\vandr\Desktop\Новая папка\Lab_1\Lab_1_7\bin\Debug\Lab_1_7.pdb
+C:\Users\vandr\Desktop\Новая папка\Lab_1\Lab_1_7\obj\Debug\Lab_1_7.csprojAssemblyReference.cache
+C:\Users\vandr\Desktop\Новая папка\Lab_1\Lab_1_7\obj\Debug\Lab_1_7.exe
+C:\Users\vandr\Desktop\Новая папка\Lab_1\Lab_1_7\obj\Debug\Lab_1_7.pdb

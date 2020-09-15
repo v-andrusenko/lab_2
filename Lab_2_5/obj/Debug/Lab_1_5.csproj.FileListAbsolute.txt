@@ -1,0 +1,12 @@
+C:\Users\vandr\Desktop\Новая папка\Lab_1\Lab_1_5\bin\Debug\Lab_1_5.exe.config
+C:\Users\vandr\Desktop\Новая папка\Lab_1\Lab_1_5\bin\Debug\Lab_1_5.exe
+C:\Users\vandr\Desktop\Новая папка\Lab_1\Lab_1_5\bin\Debug\Lab_1_5.pdb
+C:\Users\vandr\Desktop\Новая папка\Lab_1\Lab_1_5\obj\Debug\Lab_1_5.csprojAssemblyReference.cache
+C:\Users\vandr\Desktop\Новая папка\Lab_1\Lab_1_5\obj\Debug\Lab_1_5.exe
+C:\Users\vandr\Desktop\Новая папка\Lab_1\Lab_1_5\obj\Debug\Lab_1_5.pdb
+C:\Users\vandr\Desktop\Новая папка\Lab_2\Lab_1_5\bin\Debug\Lab_1_5.exe.config
+C:\Users\vandr\Desktop\Новая папка\Lab_2\Lab_1_5\bin\Debug\Lab_1_5.exe
+C:\Users\vandr\Desktop\Новая папка\Lab_2\Lab_1_5\bin\Debug\Lab_1_5.pdb
+C:\Users\vandr\Desktop\Новая папка\Lab_2\Lab_1_5\obj\Debug\Lab_1_5.csprojAssemblyReference.cache
+C:\Users\vandr\Desktop\Новая папка\Lab_2\Lab_1_5\obj\Debug\Lab_1_5.exe
+C:\Users\vandr\Desktop\Новая папка\Lab_2\Lab_1_5\obj\Debug\Lab_1_5.pdb
